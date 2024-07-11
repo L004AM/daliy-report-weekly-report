@@ -3,3 +3,4 @@
 https://www.bilibili.com/list/watchlater?bvid=BV1bz411e7RG&oid=201115741
 我没用RM官方的A板，C板，CAN初始化得自己写，CAN发控制电流电压的数据，收机械位置的数据都得看看怎么写
 HAL库不会，有点裂开
+下了官方GM6020的DEMO程序，看看怎么事
