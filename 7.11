@@ -1,0 +1,5 @@
+2024/7/11
+找了RM的GM6020手册看，再找了B站上一些实例操作，大概有点头绪了，但是还是懵
+https://www.bilibili.com/list/watchlater?bvid=BV1bz411e7RG&oid=201115741
+我没用RM官方的A板，C板，CAN初始化得自己写，CAN发控制电流电压的数据，收机械位置的数据都得看看怎么写
+HAL库不会，有点裂开
